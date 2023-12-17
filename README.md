@@ -1,8 +1,7 @@
 <h1 align="left">Hi 👋, I'm Arpit Rai</h1>
+<img align="right" width="400" hight="360" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" alt="Cooding">
 <h3 align="left">A Dedicated and highly motivated Computer Science
     <br>and Engineering student.💻💸</h3>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" alt="Cooding">
-
 
 <p>
 🌱 I’m currently learning <b>R and DataScience</b>
@@ -11,7 +10,7 @@
 <br>
 ❓ Ask me about anything related to MERN stack and related technologies  
 </p>
-
+<p> <img src="https://komarev.com/ghpvc/?username=arpitrai2002&label=Profile%20views&color=0e75b6&style=flat" alt="arpitrai2002" /> </p>
 <h2>Connect with me:</h2>
 <div>
     <a href="mailto:arpitr2002@outlook.com" target="_blank">
@@ -70,12 +69,12 @@
     </div>
     
 <h2 align="Center">Github Stats:</h2>
-
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitrai2002&show_icons=true&locale=en&layout=compact" alt="arpitrai2002" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitrai2002" alt="arpitrai2002" /></a> </p>
+<table style=border-collapse: collapse;>
+    <tr>
+<td><p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=arpitrai2002&show_icons=true&locale=en" alt="arpitrai2002" /></p><td>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitrai2002&show_icons=true&locale=en&layout=compact" alt="arpitrai2002" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpitrai2002&show_icons=true&locale=en" alt="arpitrai2002" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitrai2002&" alt="arpitrai2002" /></p>
-<p> <img src="https://komarev.com/ghpvc/?username=arpitrai2002&label=Profile%20views&color=0e75b6&style=flat" alt="arpitrai2002" /> </p>
+<td><p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=arpitrai2002&" alt="arpitrai2002" /></p></td>
+</tr>
+</table>
