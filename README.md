@@ -1,9 +1,10 @@
-<h1 align="">Hi 👋, I'm Arpit Rai</h1>
-<h3 align="">A Dedicated and highly motivated Computer Science and Engineering student.💻💸</h3>
+<h1 align="left">Hi 👋, I'm Arpit Rai</h1>
+<h3 align="left">A Dedicated and highly motivated Computer Science
+    <br>and Engineering student.💻💸</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" alt="Cooding">
 
 
-<p align="center">
+<p>
 🌱 I’m currently learning <b>R and DataScience</b>
 <br>
 💬 Ask me about <strong>DSA,MERN<strong>
@@ -11,8 +12,8 @@
 ❓ Ask me about anything related to MERN stack and related technologies  
 </p>
 
-<h2 align="center">Connect with me:</h2>
-<div align="center">
+<h2>Connect with me:</h2>
+<div>
     <a href="mailto:arpitr2002@outlook.com" target="_blank">
     <img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
  alt=github style="margin-bottom: 5px;" />
