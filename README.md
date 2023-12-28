@@ -6,8 +6,6 @@
 <p>
 🌱 I’m currently learning <b>R and DataScience</b>
 <br>
-💬 Ask me about <strong>DSA,MERN<strong>
-<br>
 ❓ Ask me about anything related to MERN stack and related technologies  
 </p>
 <p> <img src="https://komarev.com/ghpvc/?username=arpitrai2002&label=Profile%20views&color=0e75b6&style=flat" alt="arpitrai2002" /> </p>
