@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Arpit Rai</h1>
 <img align="right" width="400" hight="360" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" alt="Cooding">
 <h3 align="left">A Dedicated and highly motivated Computer Science
-    <br>and Engineering student.💻💸</h3>
+    <br>and Engineering Student.💻💸</h3>
 
 <p>
 🌱 I’m currently learning <b>R and DataScience</b>
